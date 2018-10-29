@@ -1,5 +1,4 @@
-# awesome-resources
-Awesome Resources
+# Awesome Resources
 
 ## Awesome Code
 
